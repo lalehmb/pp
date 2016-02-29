@@ -12,7 +12,6 @@ dump.rdb
 
 .sass-cache/*
 public/csv/*
-public/plugins/*
 public/tombstone/*
 
 # Ignore bundler config
@@ -43,7 +42,6 @@ config/discourse.conf
 log/
 
 # Ignore plugins except for the bundled ones.
-/plugins/*
 !/plugins/emoji/
 !/plugins/lazyYT/
 !/plugins/poll/
